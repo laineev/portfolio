@@ -1,0 +1,15 @@
+* {
+    margin: 0px 8px 0px 8px;
+}
+
+hr{
+    border: 2px solid #629B9D;    
+}
+
+
+.navbar-brand {
+    background-image: linear-gradient(to right, #9D6462, #629B9D);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }

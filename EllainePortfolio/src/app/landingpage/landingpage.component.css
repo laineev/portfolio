@@ -1,0 +1,30 @@
+.blue-text{
+    font-weight: 900;
+    color:#629B9D;    
+}
+
+.semibold-text{
+    font-weight: 600;
+}
+.bold-text{
+    font-weight: 900;
+}
+
+.btn-viewprojects{
+    width: 306px;
+    max-height: 68px;
+    padding: 10px;
+    color: #fff;
+    background-color:#629B9D;
+}
+
+.btn-viewprojects:hover{
+    width: 306px;
+    max-height: 68px;
+    padding: 10px;
+    color: #629B9D;
+    background-color:#fff;
+    border-radius: 8px;
+    border-color: black;
+    border-width: 3px;    
+}
